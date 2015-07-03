@@ -1,0 +1,5 @@
+
+Solution to the https://xkcd.com/287/ problem, using dynamic programming
+
+Run cafe.py -f <filename> where the file is the menu and target price.
+Look at the 'test menus' directory for examples

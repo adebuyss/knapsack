@@ -1,0 +1,16 @@
+10051.19
+mixed fruit,$2.15
+french fries,$2.75
+side salad,$3.35
+hot wings,$3.55
+mozzarella sticks,$4.20
+sampler plate,$5.80
+amixed fruit,$2.15
+afrench fries,$2.75
+aside salad,$3.35
+ahot wings,$3.55
+amozzarella sticks,$4.20
+asampler plate,$5.80
+thin mint,.02
+
+
